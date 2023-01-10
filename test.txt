@@ -1,0 +1,5 @@
+11.(Statistics) Being Or Having A Random Variable.（统）是随机变数或有随机变数。
+12.Stochastic Learning Theory随机学习理论 随机学习理论
+13.With The Single Random Factor Assumption, The Stochastic DEA Problems Can Be Solved Via The Method Of Chance Constrained Programming And The Goal Programming Theory.运用随机规划原理 ,可求解随机 DEA问题 .
+14.Study On Construction And Randomness Analysis Of Pseudorandom Sequences;伪随机序列构造及其随机性分析研究
+15.The Complete Convergence For Random Walk In Random Scenery;随机环境中的随机游动的完全收敛性
